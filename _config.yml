@@ -80,9 +80,9 @@ analytics:
 # Site Author
 author:
   name             : "Offek Tziperman"
-  avatar           : "images/offek.jpeg"
+  avatar           : "offek.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Jerusalem,Israel"
   employer         :
   email            :
   uri              :
