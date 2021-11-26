@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Offek Tziperman"
 title_separator          : "-"
 name                     : &name "Offek Tziperman"
-description              : &description "personal description"
+description              : &description "Final year undergraduate"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "offek cover photo.jpeg"
+  avatar           : "offek.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
