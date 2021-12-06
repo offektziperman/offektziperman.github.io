@@ -35,19 +35,18 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Mandatory Military Service - Maglan Special Forces Unit
 ======
     * Worked as part of a team of in a wide variety of physically and mentally challenging tasks.
   
-
 Scholarships and Awards
 ======
-    * Natural Science Bachelors Degree Fellowship - Given to a few undergraduates studying natural sciences a year to encourage active participation in research.
-    * Participants are science students with a high GPA, 10% of student body. 
-    * Dean's List 2019 - Present
-    * Predential Award for Excellence in Millitary Service.
+* Natural Science Bachelors Degree Fellowship - Given to a few undergraduates studying natural sciences a year to encourage active participation in research.
+* Participants are science students with a high GPA, 10% of student body. 
+* Dean's List 2019 - Present
+* Predential Award for Excellence in Millitary Service.
     
 
+ {% endfor %}</ul>
 
