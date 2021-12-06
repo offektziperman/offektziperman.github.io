@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Clump Survival vs Disruption by Supernova Feedback"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+excerpt: 'Addressing the giant clumps in high-redshift disc galaxies, we evaluate the conditions for clump survival versus disruption by supernova feedback in a disc dynamical timescale. We compare the energy deposited by supernova bubbles in the clump gas to the its gravitational binding energy in the clump, in the spirit of (Dekel & Silk 1986) and Toomre violent disk instability (Dekel, Sari & Ceverino 2009). We find that long-lived clumps tend to exist above a clump threshold mass, near the Toomre mass, in galaxies above a critical mass, above a threshold gas fraction, and with relatively
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+low central mass of bulge and dark matter. They are not expected to exist if the en-
+ergy per supernova is well above the typical value, if the stellar initial mass function is
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+top-heavy, or if the star-formation-rate efficiency is higher than commonly assumed.'
+Status: In preparation
