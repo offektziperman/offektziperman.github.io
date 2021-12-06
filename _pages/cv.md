@@ -35,6 +35,7 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
+ {% endfor %}</ul>
 
 Mandatory Military Service - Maglan Special Forces Unit
 ======
@@ -48,5 +49,4 @@ Scholarships and Awards
 * Predential Award for Excellence in Millitary Service.
     
 
- {% endfor %}</ul>
 
