@@ -8,31 +8,28 @@ redirect_from:
 ---
 
 {% include base_path %}
+Profile
+======
+I am a passionate final year undergraduate studying physics and mathematics. My current research interests include quantum information, nonlinear optics and astrophysics. I am especially fascinated by the areas of physics in which theory is closely motivated by experiment. 
 
 Education
 ======
 * B.Sc. in Physics and Mathematics 2019-present
+  GPA: 4.0/4.0, first in the 2021 class of physics.
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Experimental Research Project in Nonlinear Optics - Hebrew University in Jerusalem.
+  “Mode Locked Fiber Laser”
+  * Built a mode locked laser.
+  * Designed a numerical simulation in Python of laser mode locking using the Haus master equation.
+* 2020-2021: Theoretical and Experimental Research Project in Nonlinear Optics - Hebrew University in Jerusalem.
+    “Loosely and Tightly Bound Optical Soliton Steady States”
+    * Experimentally measured and analytically calculated noise-mediated interactions of short light pulses.
+    * Presented in group meetings.
+* Summer 2021 - present: Theoretical Research Project in Astrophysics - Hebrew University in Jerusalem.
+    * Taken part in analytical “toy modeling” of survival of giant clumps against disruption by supernova feedback.
+    * Presented in group meetings.
 
 Publications
 ======
@@ -41,17 +38,10 @@ Publications
   {% endfor %}</ul>
   
 Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+Mandatory Military
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
