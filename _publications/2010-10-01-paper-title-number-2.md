@@ -6,3 +6,11 @@ excerpt: 'Addressing the giant clumps in high-redshift disc galaxies, we evaluat
 
 low central mass of bulge and dark matter. They are not expected to exist if the energy per supernova is well above the typical value, if the stellar initial mass function is top-heavy, or if the star-formation-rate efficiency is higher than commonly assumed.
 Status: In preparation'
+---
+date: 2021-11-13
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+---
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+ 
+  
