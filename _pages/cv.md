@@ -39,7 +39,7 @@ Publications
 
 Mandatory Military Service - Maglan Special Forces Unit
 ======
-    * Worked as part of a team of in a wide variety of physically and mentally challenging tasks.
+* Worked as part of a team of in a wide variety of physically and mentally challenging tasks.
   
 Scholarships and Awards
 ======
