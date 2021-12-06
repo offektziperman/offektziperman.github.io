@@ -4,8 +4,5 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Addressing the giant clumps in high-redshift disc galaxies, we evaluate the conditions for clump survival versus disruption by supernova feedback in a disc dynamical timescale. We compare the energy deposited by supernova bubbles in the clump gas to the its gravitational binding energy in the clump, in the spirit of (Dekel & Silk 1986) and Toomre violent disk instability (Dekel, Sari & Ceverino 2009). We find that long-lived clumps tend to exist above a clump threshold mass, near the Toomre mass, in galaxies above a critical mass, above a threshold gas fraction, and with relatively
 
-low central mass of bulge and dark matter. They are not expected to exist if the en-
-ergy per supernova is well above the typical value, if the stellar initial mass function is
-
-top-heavy, or if the star-formation-rate efficiency is higher than commonly assumed.
-Status In preparation'
+low central mass of bulge and dark matter. They are not expected to exist if the energy per supernova is well above the typical value, if the stellar initial mass function is top-heavy, or if the star-formation-rate efficiency is higher than commonly assumed.
+Status: In preparation'
