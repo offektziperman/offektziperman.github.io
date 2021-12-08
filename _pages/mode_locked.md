@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 title: "Mode Locked Laser with a Multimode Fiber as a Saturable Absorber"
-excerpt: "<br/><img src='/images/Setup.png'>"
+excerpt: "<br/>"
 ---
 In this project we built a mode locked fiber laser with the key component, the satarable absorber being a multimode fiber.
-<img src='/images/Setup.png'>
+<img src='/images/Setup.png' width="400" height="300">
