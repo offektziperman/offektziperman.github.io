@@ -7,3 +7,4 @@ redirect_from:
   - /projects/
   - /projects.html
 ---
+Hi
