@@ -8,5 +8,14 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Presentations"
-    url: /presentations/
+  - title: "Mode Locked Laser"
+    url: /mode_locked/
+    
+  - title: "Soliton Interactions"
+    url: /soliton/  
+    
+  - title: "Giant Clumps at High Redshift"
+    url: /clumps/
+  
+  - title: "Water Flowing from two Holes"
+    url: /water/
