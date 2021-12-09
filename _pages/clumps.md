@@ -12,5 +12,5 @@ Many galaxies at high redshift are clumpy, meaning they have areas that are over
 </p>
 
 <p align="center">
-  <img src='/images/clump_evolution.gif' width="600" height="300">
+  <img src='/images/clump_evolution.gif' width="1000" height="500">
 </p>
