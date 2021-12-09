@@ -10,7 +10,7 @@ Many galaxies at high redshift are clumpy, meaning they have areas that are over
 <p align="center">
   <img src='/images/galaxy_wclump.jpg' width="800" height="400">
 </p>
-Studying massive clumps in high redshift, we look into the survivability of clumps. Some clumps are relatively short lived, disrupting over a few Myr while others are long lived living for hundreds of Myr. The goal of the project is to understand what determines the fate of a clump, whether it will be short lived (SLC) or long lived (LLC). We use a combination of analytical modeling and data analysis of pre-existing heavy numerical simulations.
+Studying massive clumps in high redshift, we look into the survivability of clumps. Some clumps are relatively short lived, disrupting over a few Myr while others are long lived living for hundreds of Myr. The goal of the project is to understand what determines the fate of a clump, whether it will be short lived (SLC) or long lived (LLC). We use a combination of analytical modeling and data analysis of pre-existing heavy numerical simulations (Vela). Here is an example of a clump in Vela evolving in time and converting it's gas into stars.
 <p align="center">
   <img src='/images/clump_evolution.gif' width="1000" height="500">
 </p>
