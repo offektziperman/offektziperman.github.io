@@ -15,4 +15,4 @@ The second type of interaction happens at close range, where the soliton seperat
 <p align="center">
   <img src='/images/raw_data.jpg' width="500" height="500">
 </p>
-You can read our arxiv paper on this work [->](http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf)
+If you would like to know more, you can read our arxiv paper on this work [here](http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf)
