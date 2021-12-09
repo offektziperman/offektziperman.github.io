@@ -11,5 +11,6 @@ Solitons are localized waves that retain their shape during propagation. They ar
 <figure class="video_container">
   <iframe src="/images/soliton_bunch.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 Although the solitons look as if they are overlaping, in truth this is due to the limited resolution of the oscilloscope. In truth they are separated ~100 times their width, we call this type of soliton bunch "loosely bound". An interaction like this must be mediated. 
 The second type of interaction.
