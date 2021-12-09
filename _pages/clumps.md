@@ -16,6 +16,6 @@ Studying massive clumps in high redshift, we look into the survivability of clum
 </p>
 Our theoretical model compares the energy input by supernovas in the clump to its gravitational binding energy. We define a quantity S, the ratio of the gravitational to supernova inputed energy. According to the model, if S is smaller than a criticle value ~0.5, the clump's gas could be lost by outflow.
 <p align="center">
-  <img src='/images/s_starforming.png' width="500" height="500">
+  <img src='/images/S_starforming.png' width="500" height="500">
 </p>
  
