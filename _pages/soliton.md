@@ -13,5 +13,5 @@ Solitons are localized waves that retain their shape during propagation. They ar
 Although the solitons look as if they are overlaping, in truth this is due to the limited resolution of the oscilloscope. They are actually separated a distance roughly 100 times their width, we call this type of soliton bunch "loosely bound". An interaction like this must be mediated. 
 The second type of interaction happens at close range, where the soliton seperation is on the same scale of the soliton width, this kind of soliton bunch is called "tightly bound" and is a coherent interaction. The solitons in this case interfere and fringes can be seen in the spectrum. Next we demonstrate a transition between the looosely and tightly obund phases
 <p align="center">
-  <img src='/images/raw_data.jpg' width="400" height="300">
+  <img src='/images/raw_data.jpg' width="500" height="500">
 </p>
