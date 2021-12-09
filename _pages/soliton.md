@@ -9,7 +9,7 @@ redirect_from:
 Solitons are localized waves that retain their shape during propagation. They are formed due to a delicate balance between nonlinear and dispersivee effects. Optical solitons interact through different mechanisms and can form bunches, sometimes the soliton seperations in these bunches is orders of magnitude longer than their width. Here is an example of a soliton bunch with the soliton separation and number changing due to monnotonic decrease of the energy available to them.
 
 <p align="center">
-  <img src='\images\soliton_bunch.gif' width="400" height="300">
+  <img src='\images\soliton_bunch.gif'>
 </p>
 
 Although the solitons look as if they are overlaping, in truth this is due to the limited resolution of the oscilloscope. In truth they are separated ~100 times their width, we call this type of soliton bunch "loosely bound". An interaction like this must be mediated. 
