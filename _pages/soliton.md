@@ -15,4 +15,5 @@ The second type of interaction happens at close range, where the soliton seperat
 <p align="center">
   <img src='/images/raw_data.jpg' width="600">
 </p>
-If you would like to know more, you can read our arxiv paper on this work [here](http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf)
+In this project we model the steady states due to NMI and compare to experimental results. The pulses deplete the gain in the cavity,  The solitons are modeled as particles conducting Brownian motion in a medium were the diffusion coefficant depends on the different pulses' location. 
+If you would like to know more, you can read a draft version of our paper on this work [here](http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf)
