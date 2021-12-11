@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am a passionate final year undergraduate studying physics and mathematics. My current research interests include quantum information, nonlinear optics and astrophysics. I am especially fascinated by the areas of physics in which theory is closely motivated by experiment. 
+I am a final year undergraduate studying physics and mathematics. My current research interests include quantum information, nonlinear optics and astrophysics. I am especially fascinated by the areas of physics in which theory is closely motivated by experiment. 
 
 Education
 ======
@@ -22,9 +22,9 @@ Research experience
   * Built a mode locked laser.
   * Designed a numerical simulation in Python of laser mode locking using the Haus master equation.
 * 2020-2021: Theoretical and Experimental Research Project in Nonlinear Optics - Hebrew University in Jerusalem.
-    “Loosely and Tightly Bound Optical Soliton Steady States”
-    * Experimentally measured and analytically calculated noise-mediated interactions of short light pulses.
-    * Presented in group meetings.
+   “Loosely and Tightly Bound Optical Soliton Steady States”
+  * Experimentally measured and analytically calculated noise-mediated interactions of short light pulses.
+  * Presented in group meetings.
 * Summer 2021 - present: Theoretical Research Project in Astrophysics - Hebrew University in Jerusalem.
     * Taken part in analytical “toy modeling” of survival of giant clumps against disruption by supernova feedback.
     * Presented in group meetings.
