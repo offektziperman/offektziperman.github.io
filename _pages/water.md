@@ -10,3 +10,4 @@ Consider a tall tank of water with two small circular holes at the bottom. The t
 <p align="center">
   <img src='/images/phase_transition.gif' width="500" height="300">
 </p>
+We experimentally studied the phase transition, finding that the two states occure due to a competition between surface tension and inertia. We investigated how the split of the combine jets is affected by five key parameters. If you would like to know more you can read our [report](http://offektziperman.github.io/files/water_.pdf) or look at our [presentation](http://offektziperman.github.io/files/water_.ppt) (hebrew).
