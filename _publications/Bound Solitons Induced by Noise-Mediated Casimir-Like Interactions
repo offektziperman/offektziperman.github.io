@@ -1,10 +1,17 @@
 ---
-title: "Bound Solitons Induced by Noise-Mediated Casimir-Like Interactions - In preparation"
+title: "Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions"
 collection: publications
-permalink: /publication/Bound Solitons Induced by Noise-Mediated Casimir-Like Interactions
-excerpt: 'We study experimentally and theoretically the steady states of optical solitons that aggregate into bunches in a nonlinear multimode interference based mode-locked fiber laser. By modifying the laser gain via its pumping current, we demonstrate a variety of steady states. We model the steady states using our recently proposed noise-mediated Casimir-like pulse interaction mechanism and obtain a quantitative agreement with our experimental results. We present a steady states phase diagram and demonstrate transitions between noise-mediated and coherently bound states without using additional modulators, asserting the noise-mediated interaction as a dominant mechanism in the complex soliton structures. The control of the complex soliton structures via the pumping current opens the door for the use of ultrafast lasers in telecommunication. '
-paperurl: 'http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf'
+permalink: /publication/solitons
+excerpt: 'We study experimentally and theoretically the steady states of two-soliton waveforms that form stationary
+bound states in a  ber laser, passively mode locked by a nonlinear-multimode-interference-based saturable ab-
+sorber. We control the steady state separation by changing the laser parameters, and in particular demonstrate a
+dynamical transition between loosely-bound states where the the solitons interact via the noise-mediated Casimir-
+like interactions, and tightly-bound states dominated by coherent overlap interactions. We show that the measured
+pulse separations of the loosely bound pairs are well-described by the NMI theory, and present a steady state phase
+diagram that captures the transitions between the loosely- and tightly-bound states as an intrinsic consequence of
+the form of the noise-mediated interaction e ective potential.'
+paperurl: 'http://offektziperman.github.io/solitons.pdf'
 ---
-[Download paper here](http://offektziperman.github.io/files/Loosely_Bound_Solitons_Induced_by_Casimir_Like_Interactions_.pdf)
+[Download paper here](http://offektziperman.github.io/solitons.pdf)
  
  
