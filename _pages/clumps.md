@@ -18,3 +18,4 @@ Our theoretical model compares the energy input by supernovas in the clump to it
 <p align="center">
   <img src='/images/S_starforming.png' width="500" height="500">
 </p>
+ 
