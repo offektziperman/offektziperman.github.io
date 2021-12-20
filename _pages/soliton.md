@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /soliton
 --- 
-Solitons are localized waves that retain their shape during propagation. They are formed due to a delicate balance between nonlinear and dispersive effects. Optical solitons interact through different mechanisms and can form bunches, sometimes the seperations between solitons in these bunches are is orders of magnitude longer than their width. Here is an example of a soliton bunch with the soliton separation and number changing due to a decrease of the energy available.
+Solitons are localized waves that retain their shape during propagation. They are formed due to a delicate balance between nonlinear and dispersive effects. Optical solitons interact through different mechanisms and can form bunches, sometimes the seperations between solitons in these bunches are orders of magnitude longer than their width. Here is an example of a soliton bunch with the soliton separation and number changing due to a decrease of the energy available.
 <p align="center">
   <img src='/images/soliton_bunch.gif' width="600">
 </p>
