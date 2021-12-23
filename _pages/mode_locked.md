@@ -7,7 +7,7 @@ redirect_from:
   - /mode_locked
 --- 
 A mode locked laser is a special kind of laser which emits a periodic train of ultrashort light pulses, having temporal width ~ 1 picosecond. Since the temporal duration of the pulses is much shorter than the period, the peak power of the laser can be orders of magnitude greater than its average power. In a typical laser (continuous wave), The different temporal modes in the cavity are **out of phase**, in a mode locked laser thousands of temporal modes oscillate **in phase** resulting in a short intense light pulse. 
-
+ 
 <p align="center"> 
   <img src='/images/Modelocking.gif' width="800">
 </p>
