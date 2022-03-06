@@ -1,10 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "CV"
-    url: /cv/
+
     
   - title: "Soliton Interactions"
     url: /soliton/  
@@ -18,3 +14,5 @@ main:
   - title: "Water Flowing from two Holes"
     url: /water/
  
+  - title: "Publications"
+    url: /publications/
