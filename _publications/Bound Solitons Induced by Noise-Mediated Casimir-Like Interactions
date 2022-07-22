@@ -1,15 +1,8 @@
 ---
-title: "Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions, Kfir Sulimany, *Offek Tziperman*, Yaron Bromberg, Omri Gat." 
+title: "Soliton-pair dynamical transition in mode-locked lasers, Kfir Sulimany, *Offek Tziperman*, Yaron Bromberg, Omri Gat." 
 collection: publications
 hyperlink: /soliton/
-excerpt: 'We study experimentally and theoretically the steady states of two-soliton waveforms that form stationary
-bound states in a  ber laser, passively mode locked by a nonlinear-multimode-interference-based saturable ab-
-sorber. We control the steady state separation by changing the laser parameters, and in particular demonstrate a
-dynamical transition between loosely-bound states where the the solitons interact via the noise-mediated Casimir-
-like interactions, and tightly-bound states dominated by coherent overlap interactions. We show that the measured
-pulse separations of the loosely bound pairs are well-described by the NMI theory, and present a steady state phase
-diagram that captures the transitions between the loosely- and tightly-bound states as an intrinsic consequence of
-the form of the noise-mediated interaction e ective potential.'
+excerpt: 'Multi-soliton mode-locked laser waveforms are much sought as a complex light source for research and applications, but are difficult to manipulate effectively because of the elaborate and diverse interactions present. Here we present an experimental, numerical, and theoretical study of the interaction and control of the internal dynamics of a two-soliton waveform in a mode-locked fiber laser. Using the pumping current as a control agent, we demonstrate experimentally a two-orders-of-magnitude reduction in the separation of a bound soliton pair, inducing a dynamical transition between a loosely bound, phase-incoherent pair, and a tightly bound phase-locked pair. We show on the basis of a Haus-model numerical simulation of the recently-proposed noise-mediated interaction theory, that the pulse separation and dynamical transition are governed by the shape of the dispersive-wave pedestals. We explain the dynamical transition by showing analytically, within a simplified theory, that the noise-mediated interaction becomes purely attractive when the pedestals energy drops below a threshold. This work demonstrates the ability to control the waveform through the interaction forces, without external intervention in the light propagation in the laser.'
 paperurl: 'http://offektziperman.github.io/solitons.pdf'
 ---
 [Download paper here](solitons.pdf)
