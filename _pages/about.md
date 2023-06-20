@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year undergraduate studying physics and mathematics. My current research interests include quantum information, nonlinear optics and astrophysics. I am especially fascinated by the areas of physics in which theory is closely motivated by experiment.
+I am a first year Masters student at Technion Institute of Technology, Israel studying physics. My current research interests include quantum optics, nonlinear optics and astrophysics, but physics in general is great! I am especially fascinated by the areas of physics in which theory is closely motivated by experiment.
