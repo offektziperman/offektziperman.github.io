@@ -16,6 +16,7 @@ redirect_from:
 
 
 ***Theory***
+
 |**Collective emission from quantum emitters**|                                     |
 |:---------------------------------|:-----------------------------------|
 |In 1954 Robert Dicke refined our understanding of spontaneous emission by showing that identical emitters, coupled identically to an electromagnetic field will exhibit either enhanced or suppressed emission due to constructive or destructive interference between decay paths, superradiance and subradiance. In this project we studied the quantum optical state of light emitted from a system of quantum entangled emitters, we studied the affects of emitters positions, interactions, losses, initial conditions and more, showing how these degrees of freedom can be leveraged for creating quantum states of light that are important for quantum technologies.|<img src="/images/Figure 1.png" width="2000" />|
