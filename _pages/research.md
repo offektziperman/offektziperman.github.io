@@ -10,33 +10,33 @@ redirect_from:
 
 **Quantum Optics With Free Electrons**
 <p align="left">
-  <img src='/images/UTEM.png' width="300" height="300">
+  <img src='/images/UTEM.png' width="300">
 </p>
 
 **Soliton Interactions**
 <p align="left">
-  <img src='/images/soliton_concept.png' width="300" height="300">
+  <img src='/images/soliton_concept.png' width="300">
 </p>
 
 ***Theory***
 
 **Collective emission from quantum emitters**
 <p align="left">
-  <img src='/images/Figure 1.png'>
+  <img src='/images/Figure 1.png' width="300">
 </p>
 
 **Nonlinear quantum optics**
 <p align="center">
-  <img src='/images/Figure 1 squeezing paper.png' width="300" height="300">
+  <img src='/images/Figure 1 squeezing paper.png' width="300">
 </p>
 
 **Astrophysics**
 <p align="center">
-  <img src='/images/clump.png' width="500" height="500">
+  <img src='/images/clump.png' width="300">
 </p>
 
 **X-ray scintillation with quantum optics**
 <p align="center">
-  <img src='/images/xray.png' width="500" height="500">
+  <img src='/images/xray.png' width="300">
 </p>
 
