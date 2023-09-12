@@ -14,7 +14,6 @@ redirect_from:
 |**Soliton Interactions**              |                                     |
 |In this project we study the nonlinear interactions between pulses of light in a fiber laser. Solitons are special types of localized waves which mantain their shape while propagating. Being nonlinear creatures, solitons can interact, collide and form bound states. We found that we can induce a transition between incoherent and coherent bound states of solitons by scanning the laser gain, controling their separation over two orders of magnitude and transitioning between a relative phase-fluctuating and a phase-locked state. We also modeled this transition theoretically utilizing the recently devoloped noise mediated interaction foralism for ultra-long range soliton interactions.|<img src="/images/soliton_concept.jpeg" width="2000" />|
 
-
 ***Theory***
 
 |**Collective emission from quantum emitters**|                                     |
