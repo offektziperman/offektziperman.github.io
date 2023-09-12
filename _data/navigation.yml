@@ -3,6 +3,8 @@ main:
 
   - title: "Research"
     url: /research/      
+  - title: "Research gpt"
+    url: /research_gpt/ 
   - title: "Soliton Interactions"
     url: /soliton/  
     
