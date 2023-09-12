@@ -7,4 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Masters student at Technion Institute of Technology, Israel studying physics. My current research interests include quantum optics, nonlinear optics and astrophysics, but physics in general is great! I am especially fascinated by the areas of physics in which theory is closely motivated by experiment.
+Welcome! My name is Offek Tziperman and I Masters degree student at the Technion Institute of Technology, Israel and a visiting student at Niels Bohr Institute in Denmark.
+
+I recieved a Bsc in physics from The Hebrew University in Jerusalem (2022). 
+
+My research covers a wide variety of topics including quantum optics, nonlinear optics, atomic physics, free electron-light interactions and astrophysics. You can learn more about my research in the Research section. A list of my published work can be found on the Publications page.
