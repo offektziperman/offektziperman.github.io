@@ -6,34 +6,34 @@ author_profile: true
 redirect_from:
   - /research
 --- 
-Experiment
-Quantum Optics With Free Electrons
-<p align="center">
-  <img src='/images/UTEM.png' width="500" height="500">
+***Experiment***
+**Quantum Optics With Free Electrons**
+<p align="left">
+  <img src='/images/UTEM.png' width="300" height="300">
 </p>
 
-Soliton Interactions
-<p align="center">
-  <img src='/images/solitons.png' width="500" height="500">
+**Soliton Interactions**
+<p align="left">
+  <img src='/images/solitons.png' width="300" height="300">
 </p>
 
-Theory
-Collective emission from quantum emitters
-<p align="center">
-  <img src='/images/sr.png' width="500" height="500">
+***Theory***
+**Collective emission from quantum emitters**
+<p align="left">
+  <img src='/images/Figure 1.png' width="300" height="300">
 </p>
 
-Nonlinear quantum optics
+**Nonlinear quantum optics**
 <p align="center">
-  <img src='/images/parametric.png' width="500" height="500">
+  <img src='/images/Figure 1 squeezing paper.png' width="300" height="300">
 </p>
 
-Astrophysics
+**Astrophysics**
 <p align="center">
   <img src='/images/clump.png' width="500" height="500">
 </p>
 
-X-ray scintillation with quantum optics
+**X-ray scintillation with quantum optics**
 <p align="center">
   <img src='/images/xray.png' width="500" height="500">
 </p>
