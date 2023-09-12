@@ -22,11 +22,11 @@ redirect_from:
 
 **Collective emission from quantum emitters**
 <p align="left">
-  <img src='/images/Figure 1.png' width="300">
+  <img src='/images/Figure 1.png' width="500">
 </p>
 
 **Nonlinear quantum optics**
-<p align="center">
+<p align="left">
   <img src='/images/Figure 1 squeezing paper.png' width="300">
 </p>
 
