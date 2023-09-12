@@ -15,14 +15,14 @@ redirect_from:
 
 **Soliton Interactions**
 <p align="left">
-  <img src='/images/solitons.png' width="300" height="300">
+  <img src='/images/soliton_concept.png' width="300" height="300">
 </p>
 
 ***Theory***
 
 **Collective emission from quantum emitters**
 <p align="left">
-  <img src='/images/Figure 1.png' width="300" height="300">
+  <img src='/images/Figure 1.png'>
 </p>
 
 **Nonlinear quantum optics**
