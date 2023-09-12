@@ -9,13 +9,16 @@ redirect_from:
 ***Experiment***
 
 **Quantum Optics With Free Electrons**
-<p align="left">
-  <img src='/images/UTEM.png' width="300">
-</p>
 
-**Soliton Interactions**
 <p align="left">
-  <img src='/images/soliton_concept.jpeg' width="300">
+  <img src='/images/UTEM.png' width="300"> 
+</p>
+In this project we study the quantum optical interactions of relativisitic (70% of the speed of light) free electrons with quantum emitters such as pervoskite quantum dots and Nitrogen Vacancey centers in diamond. Although the electrons are relativisitic, our system allows us to easily observe even a single photon exchange in their energy gain and loss spectrum. With this strong tool, we are looking for collective superradiant interactions between the free electrons and the quantum emitters.
+**Soliton Interactions**
+
+![Alt text for image](/images/soliton_concept.jpeg) In this project we study the nonlinear interactions between pulses of light in a fiber laser. Solitons are special types of localized waves which mantain their shape while propagating. Being nonlinear creatures, solitons can interact, collide and form bound states. We found that we can induce a transition between incoherent and coherent bound states of solitons by scanning the laser gain, controling their separation over two orders of magnitude and transitioning between a relative phase-fluctuating and a phase-locked state. We also modeled this transition theoretically utilizing the recently devoloped noise mediated interaction foralism for ultra-long range soliton interactions.
+<p align="left">
+  <img src='' width="300">
 </p>
 
 ***Theory***
@@ -39,4 +42,3 @@ redirect_from:
 <p align="center">
   <img src='/images/xray.png' width="300">
 </p>
-
