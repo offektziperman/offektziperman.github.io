@@ -15,7 +15,7 @@ redirect_from:
 
 **Soliton Interactions**
 <p align="left">
-  <img src='/images/soliton_concept.png' width="300">
+  <img src='/images/soliton_concept.jpeg' width="300">
 </p>
 
 ***Theory***
@@ -27,7 +27,7 @@ redirect_from:
 
 **Nonlinear quantum optics**
 <p align="left">
-  <img src='/images/Figure 1 squeezing paper.png' width="300">
+  <img src='/images/Figure 1 squeezing paper.png' width="500">
 </p>
 
 **Astrophysics**
