@@ -7,6 +7,7 @@ redirect_from:
   - /research
 --- 
 ***Experiment***
+
 **Quantum Optics With Free Electrons**
 <p align="left">
   <img src='/images/UTEM.png' width="300" height="300">
@@ -18,6 +19,7 @@ redirect_from:
 </p>
 
 ***Theory***
+
 **Collective emission from quantum emitters**
 <p align="left">
   <img src='/images/Figure 1.png' width="300" height="300">
