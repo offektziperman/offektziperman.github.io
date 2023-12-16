@@ -10,7 +10,7 @@ Quantum states of light are the key ingredients for quantum technologies such as
 <p align="center">
   <img src='/images/Figure 1 squeezing paper.png' width="600">
 </p>
-Studying massive clumps in high redshift, we look into the survivability of clumps. Some clumps are relatively short lived, disrupting over a few Myr while others are long lived living for hundreds of Myr. The goal of the project is to understand what determines the fate of a clump, whether it will be short lived (SLC) or long lived (LLC). We use a combination of analytical modeling and data analysis of pre-existing heavy numerical simulations. We take into account the feedback from supernova. Here is an example of a simulated clump evolving in time and converting its gas into stars.
+In this work, we begin to solve this problem by finding how a quantum pulse transforms under second order Hamiltoians, taking into account parametric amplificatio, dispersion, frequency conversion and other nonlinear effects. We found one quite suprising result: If you come into a parametric amplifier with a single mode pulse, then the quantum state outside may contain infinite temporal modes, but the information on the input quantum pulse will always be kept in at most two. This allows us to solve the problem and answer what is the multimode state at the output. 
 <p align="center">
   <img src='/images/Figure 2 squeezing paper.png' width="600">
 </p>
