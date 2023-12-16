@@ -31,7 +31,6 @@ In this project we study the quantum optical interactions of relativisitic (70% 
 In this project we study the nonlinear interactions between pulses of light in a fiber laser. Solitons are special types of localized waves which mantain their shape while propagating. Being nonlinear creatures, solitons can interact, collide and form bound states. We found that we can induce a transition between incoherent and coherent bound states of solitons by scanning the laser gain, controling their separation over two orders of magnitude and transitioning between a relative phase-fluctuating and a phase-locked state. We also modeled this transition theoretically utilizing the recently devoloped noise mediated interaction foralism for ultra-long range soliton interactions.  <br>
       Relavent publications: <br>[1] Kfir Sulimany*, Offek Tziperman*, Yaron Bromberg, and Omri Gat. "Soliton-pair dynamical transition in mode-locked lasers." Optica 9, no. 11 (2022): 1260-1267.
     </p>
-  [GitHub](https://github.com)
   Look [here](https://offektziperman.github.io/soliton/) for more information.
 </div>
 
