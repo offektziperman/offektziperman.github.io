@@ -65,6 +65,6 @@ Many galaxies at high redshift are clumpy, meaning they have areas that are over
 <div>
     <img src="/images/x-ray.png" align="right" alt="Research Topic 3 Image" height=200/>
     <p>
-Scintillation, the emission of light by materials when absorbing high-energy quanta or particles, has applications in medical imaging and particle physics experiments [1,2]. Accurate measurements of scintillator properties—yield, energy resolution, and lifetime—are essential both during the development and the use of scintillators. In this project, we study how the quantum optical properties of scintillation light can help us characterize scintillators and even improve their signal to noise ratio.
+Scintillation, the emission of light by materials when absorbing high-energy quanta or particles, has applications in medical imaging and particle physics experiments. Accurate measurements of scintillator properties—yield, energy resolution, and lifetime—are essential both during the development and the use of scintillators. In this project, we study how the quantum optical properties of scintillation light can help us characterize scintillators and even improve their signal to noise ratio.
     </p>
 </div>
