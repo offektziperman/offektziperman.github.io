@@ -13,11 +13,8 @@ redirect_from:
     <p>
         In this project we study the quantum optical interactions of relativisitic (70% of the speed of light) free electrons with quantum emitters such as perovskite quantum dots and Nitrogen Vacancey centers in diamond. Although the electrons are relativisitic, our system allows us to easily observe even a single photon exchange in their energy gain and loss spectrum. With this strong tool, we are looking for collective superradiant interactions between the free electrons and the quantum emitters.
 
-      
     </p>
 
-
-  
 </div>
 
 ## Research Topic 2
