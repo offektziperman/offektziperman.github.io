@@ -62,6 +62,7 @@ and Joel Primack. ”Conditions for clump survival in high-z disc galaxies.” M
 the Royal Astronomical Society 521, no. 3 (2023): 4299-4322.<br>
     </p>
 </div>
+  Look [here](https://offektziperman.github.io/clumps/) for more information.
 
 ## X-ray scintillation with quantum optics
 <div>
