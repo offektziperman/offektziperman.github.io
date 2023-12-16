@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /clumps
 --- 
-Quantum states of light are the key ingredients for quantum technologies such as quantum sensing, communication, and certain computation platforms. It has long been known that there is a deep connection between nonlinear physics and quantum optics, and that creation and manipulation of quantum states of light requires nonlinearity. Most of the interesting phenomena in nonlinear optics are tightly connected to the inherently multimode nature of light, such as the generation of new frequencies via nonlinear processes. Nevertheless, the multimode aspects of nonlinearities in quantum optics have received only little attention. 
+Quantum states of light are the key ingredients for quantum technologies such as quantum sensing, communication, and certain computation platforms. It has long been known that there is a deep connection between nonlinear physics and quantum optics, and that creation and manipulation of quantum states of light requires nonlinearity. In addition, most of the interesting phenomena in nonlinear optics are tightly connected to the inherently multimode nature of light, such as the generation of new frequencies via nonlinear processes. Nevertheless, the multimode aspects of nonlinearities in quantum optics have received only little attention. 
 <p align="center">
   <img src='/images/Figure 1 squeezing paper.png' width="600">
 </p>
