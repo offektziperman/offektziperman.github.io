@@ -12,19 +12,17 @@ redirect_from:
 <img src="/images/UTEM.png" align="right" alt="Research Topic 1 Image" width=200/>
 <p>
 In this project we study the quantum optical interactions of relativisitic (70% of the speed of light) free electrons with quantum emitters such as perovskite quantum dots and Nitrogen Vacancey centers in diamond. Although the electrons are relativisitic, our system allows us to easily observe even a single photon exchange in their energy gain and loss spectrum. With this strong tool, we are looking for collective superradiant interactions between the free electrons and the quantum emitters.
+  <br>
+    <br>
+
 </p>
 </div>
 
-## Research Topic 2
+## Soliton Interactions
 <div>
     <img src="" align="right" alt="Research Topic 2 Image"/>
     <p>
-        Explanation for Research Topic 2:<br>
-        - Point 1<br>
-        - Point 2<br>
-        - Point 3<br>
-        - Point 4<br>
-        - Point 5<br>
+In this project we study the nonlinear interactions between pulses of light in a fiber laser. Solitons are special types of localized waves which mantain their shape while propagating. Being nonlinear creatures, solitons can interact, collide and form bound states. We found that we can induce a transition between incoherent and coherent bound states of solitons by scanning the laser gain, controling their separation over two orders of magnitude and transitioning between a relative phase-fluctuating and a phase-locked state. We also modeled this transition theoretically utilizing the recently devoloped noise mediated interaction foralism for ultra-long range soliton interactions. Look [here](https://offektziperman.github.io/soliton/) for more information. Relavent publications: [1] Kfir Sulimany*, Offek Tziperman*, Yaron Bromberg, and Omri Gat. "Soliton-pair dynamical transition in mode-locked lasers." Optica 9, no. 11 (2022): 1260-1267.
     </p>
 </div>
 
