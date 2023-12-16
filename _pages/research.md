@@ -6,34 +6,45 @@ author_profile: true
 redirect_from:
   - /research
 --- 
-# My Research Topics
 
 ## Research Topic 1
-![Research Topic 1](image-url-1)  
-*Explanation*:  
--  
--  
--  
--  
--  
+<div>
+    <img src="image-url-1" align="right" alt="Research Topic 1 Image"/>
+    <p>
+        Explanation for Research Topic 1:<br>
+        - Point 1<br>
+        - Point 2<br>
+        - Point 3<br>
+        - Point 4<br>
+        - Point 5<br>
+    </p>
+</div>
 
 ## Research Topic 2
-![Research Topic 2](image-url-2)  
-*Explanation*:  
--  
--  
--  
--  
--  
+<div>
+    <img src="/images/UTEM.png" align="right" alt="Research Topic 2 Image"/>
+    <p>
+        Explanation for Research Topic 2:<br>
+        - Point 1<br>
+        - Point 2<br>
+        - Point 3<br>
+        - Point 4<br>
+        - Point 5<br>
+    </p>
+</div>
 
 ## Research Topic 3
-![Research Topic 3](image-url-3)  
-*Explanation*:  
--  
--  
--  
--  
--  
+<div>
+    <img src="image-url-3" align="right" alt="Research Topic 3 Image"/>
+    <p>
+        Explanation for Research Topic 3:<br>
+        - Point 1<br>
+        - Point 2<br>
+        - Point 3<br>
+        - Point 4<br>
+        - Point 5<br>
+    </p>
+</div>
 ***Experiment***
 
 |**Quantum optics with free electrons**|                                     |
