@@ -16,7 +16,3 @@ In this work, we begin to solve this problem by finding how a quantum pulse tran
 </p>
 
 Check out our paper [here](https://arxiv.org/abs/2312.04394)
-<p align="center">
-  <img src='/images/S_starforming.png' width="500" height="500">
-</p>
- 
