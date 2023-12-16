@@ -32,7 +32,7 @@ In this project we study the nonlinear interactions between pulses of light in a
       Relavent publications: <br>[1] Kfir Sulimany*, Offek Tziperman*, Yaron Bromberg, and Omri Gat. "Soliton-pair dynamical transition in mode-locked lasers." Optica 9, no. 11 (2022): 1260-1267.
     </p>
   </div>
-  Look [here](https://offektziperman.github.io/soliton/) for more information.
+  Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
 
 ## Collective emission from quantum emitters - Theory
 <div>
