@@ -9,7 +9,7 @@ redirect_from:
 
 ## Quantum optics with free electrons
 <div>
-    <img src="/images/UTEM.png" align="right" alt="Research Topic 1 Image" width=3.5/>
+    <img src="/images/UTEM.png" align="right" alt="Research Topic 1 Image" width=300/>
     <p>
         In this project we study the quantum optical interactions of relativisitic (70% of the speed of light) free electrons with quantum emitters such as perovskite quantum dots and Nitrogen Vacancey centers in diamond. Although the electrons are relativisitic, our system allows us to easily observe even a single photon exchange in their energy gain and loss spectrum. With this strong tool, we are looking for collective superradiant interactions between the free electrons and the quantum emitters.
     </p>
@@ -17,7 +17,7 @@ redirect_from:
 
 ## Research Topic 2
 <div>
-    <img src="/images/UTEM.png" align="right" alt="Research Topic 2 Image"/>
+    <img src="" align="right" alt="Research Topic 2 Image"/>
     <p>
         Explanation for Research Topic 2:<br>
         - Point 1<br>
