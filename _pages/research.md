@@ -8,7 +8,7 @@ redirect_from:
 --- 
 
 
-## Quantum optics with free electrons - Experiment 1
+## Quantum optics with free electrons - Experiment
 <div>
 <img src="/images/UTEM.png" align="right" alt="Research Topic 1 Image" width=300px/>
 <p>
@@ -65,6 +65,9 @@ the Royal Astronomical Society 521, no. 3 (2023): 4299-4322.<br>
 <div>
     <img src="/images/x-ray.png" align="right" alt="Research Topic 3 Image" width=500px/>
     <p>
-Scintillation, the emission of light by materials when absorbing high-energy quanta or particles, has applications in medical imaging and particle physics experiments. Accurate measurements of scintillator properties—yield, energy resolution, and lifetime—are essential both during the development and the use of scintillators. In this project, we study how the quantum optical properties of scintillation light can help us characterize scintillators and even improve their signal to noise ratio.
+Scintillation, the emission of light by materials when absorbing high-energy quanta or particles, has applications in medical imaging and particle physics experiments. Accurate measurements of scintillator properties—yield, energy resolution, and lifetime—are essential both during the development and the use of scintillators. In this project, we study how the quantum optical properties of scintillation light can help us characterize scintillators and even improve their signal to noise ratio.  <br>
+Relavent publications:     <br>[1] Shaul Katznelson, Offek Tziperman, Tomer Bucher, Tom Lenkiewicz Abudi, Roman Schuetz,
+Orr Be’er, Shai Levy, Yehonadav Bekenstein, Charles Roques-Carmes, and Ido Kaminer ”X-ray Driven
+Photon Bunching.” CLEO 2023, paper SM1H.6., full paper in preparation.<br>
     </p>
 </div>
