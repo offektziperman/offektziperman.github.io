@@ -32,7 +32,7 @@ In this project we study the nonlinear interactions between pulses of light in a
       Relavent publications: <br>[1] Kfir Sulimany*, Offek Tziperman*, Yaron Bromberg, and Omri Gat. "Soliton-pair dynamical transition in mode-locked lasers." Optica 9, no. 11 (2022): 1260-1267.
     </p>
   </div>
-  Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
+  Look [here](https://offektziperman.github.io/soltion/) for more information.
 
 ## Collective emission from quantum emitters - Theory
 <div>
@@ -51,7 +51,8 @@ It has long been known that there is a deep connection between nonlinear physics
 
 We study the multimode transformations of pulses through Hamiltonians that are quadratic in creation and anhilation operators, describing many fundamental operations: from beam splitters and interferometers, dispersion, diffraction and polarization rotation, to nonlinear affects such as parametric amplification, parametric down conversion and frequency conversion. One finding of special importance is that parametric amplification of quantum pulses is vastly different than its single mode counterpart and that a multimode model is crucial for describing current leading experiments in the field. We also find a suprising result: An input quantum pulse will transfer information on its quantum state content to a maximum of two temporal modes on the output!
 
-More information here.
+Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
+.
  <br> Relavent publications: <br>[1] Offek Tziperman†, Victor Rueskov Christiansen†, Ido Kaminer, and Klaus Mølmer. ”Parametric
 amplification of a quantum pulse.” Submitted to Physical Review Letters, arXiv:2312.04394 (2023).
     </p>
