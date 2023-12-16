@@ -37,8 +37,6 @@ In this project we study the nonlinear interactions between pulses of light in a
     <img src="/images/Figure 1.png" align="right" alt="Research Topic 3 Image" height=300/>
     <p>
 In 1954 Robert Dicke refined our understanding of spontaneous emission by showing that identical emitters, coupled identically to an electromagnetic field will exhibit either enhanced or suppressed emission due to constructive or destructive interference between decay paths, superradiance and subradiance. In this project we studied the quantum optical state of light emitted from a system of quantum entangled emitters, we studied the affects of emitters positions, interactions, losses, initial conditions and more, showing how these degrees of freedom can be leveraged for creating quantum states of light that are important for quantum technologies.Relavent publications:     <br>[1] Offek Tziperman†, Gefen Baranes†, Alexey Gorlach†, Ron Ruimy, Michael Faran, Nir Gutman, Andrea Pizzi, and Ido Kaminer. ”Spontaneous emission from correlated emitters.” Under review,arXiv:2306.11348 (2023).    <br>[2] Nir Gutman†, Alexey Gorlach†, Offek Tziperman, Ron Ruimy, and Ido Kaminer. ”Universal control of symmetric states using spin squeezing.” Accepted to Physical Review Letters, arXiv:2312.01506 (2023).<br>
-    <br>
-    <br>
     </p>
 </div>
 
