@@ -52,7 +52,6 @@ It has long been known that there is a deep connection between nonlinear physics
 We study the multimode transformations of pulses through Hamiltonians that are quadratic in creation and anhilation operators, describing many fundamental operations: from beam splitters and interferometers, dispersion, diffraction and polarization rotation, to nonlinear affects such as parametric amplification, parametric down conversion and frequency conversion. One finding of special importance is that parametric amplification of quantum pulses is vastly different than its single mode counterpart and that a multimode model is crucial for describing current leading experiments in the field. We also find a suprising result: An input quantum pulse will transfer information on its quantum state content to a maximum of two temporal modes on the output!
 
 More information here.
-![image](https://github.com/offektziperman/offektziperman.github.io/assets/62150460/75e493b7-184f-4c95-9351-86c0bcb496a1)
  <br> Relavent publications: <br>[1] Offek Tziperman†, Victor Rueskov Christiansen†, Ido Kaminer, and Klaus Mølmer. ”Parametric
 amplification of a quantum pulse.” Submitted to Physical Review Letters, arXiv:2312.04394 (2023).
     </p>
