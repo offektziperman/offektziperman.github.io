@@ -55,7 +55,7 @@ In 1954 Robert Dicke refined our understanding of spontaneous emission by showin
 
 ## Astrophysics
 <div>
-    <img src="/images/galaxy_wclump.jpg" align="right" alt="Research Topic 3 Image" height=300/>
+    <img src="/images/galaxy_wclump.jpg" align="right" alt="Research Topic 3 Image" height=200/>
     <p>
 Many galaxies at high redshift are clumpy, meaning they have areas that are overdense compared to the sorroundings. Clumps are formed when the force of gravitation overcomes the forces due to pressure and rotation causing a local inward collapse of mass. Studying massive clumps in high redshift, we look into the survivability of clumps. Some clumps are relatively short lived, disrupting over a few Myr while others are long lived living for hundreds of Myr. The goal of the project is to understand what determines the fate of a clump, whether it will be short lived (SLC) or long lived (LLC). We use a combination of analytical modeling and data analysis of pre-existing heavy numerical simulations. We take into account the feedback from supernova. Here is an example of a simulated clump evolving in time and converting its gas into stars.
     </p>
