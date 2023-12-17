@@ -50,13 +50,11 @@ Relavent publications:     <br>[1] Offek Tziperman†, Gefen Baranes†, Alexey 
 It has long been known that there is a deep connection between nonlinear physics and quantum optics, and that creation and manipulation of quantum states of light requires nonlinearity. Most of the interesting phenomena in nonlinear optics are tightly connected to the inherently multimode nature of light, such as the generation of new frequencies via nonlinear processes. Nevertheless, the multimode aspects of nonlinearities in quantum optics have received only little attention. 
 
 We study the multimode transformations of pulses through Hamiltonians that are quadratic in creation and anhilation operators, describing many fundamental operations: from beam splitters and interferometers, dispersion, diffraction and polarization rotation, to nonlinear affects such as parametric amplification, parametric down conversion and frequency conversion. One finding of special importance is that parametric amplification of quantum pulses is vastly different than its single mode counterpart and that a multimode model is crucial for describing current leading experiments in the field. We also find a suprising result: An input quantum pulse will transfer information on its quantum state content to a maximum of two temporal modes on the output!
-
-Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
-.
  <br> Relavent publications: <br>[1] Offek Tziperman†, Victor Rueskov Christiansen†, Ido Kaminer, and Klaus Mølmer. ”Parametric
 amplification of a quantum pulse.” Submitted to Physical Review Letters, arXiv:2312.04394 (2023).
     </p>
 </div>
+Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
 
 ## Astrophysics
 <div>
