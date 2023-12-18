@@ -21,7 +21,7 @@ In this project we study the quantum optical interactions of relativisitic (70% 
 </p>
 </div>
 
-## Soliton Interactions - Experiment
+## [Soliton Interactions - Experiment](https://offektziperman.github.io/soliton/)
 
 <div>
     <img src="/images/soliton_concept.jpeg" align="right" alt="Research Topic 2 Image" width=300px/>
@@ -30,8 +30,7 @@ In this project we study the nonlinear interactions between pulses of light in a
       Relavent publications: <br>[1] Kfir Sulimany*, Offek Tziperman*, Yaron Bromberg, and Omri Gat. "Soliton-pair dynamical transition in mode-locked lasers." Optica 9, no. 11 (2022): 1260-1267.
     </p>
   </div>
-  Look [here](https://offektziperman.github.io/soliton/) for more information.
-
+  
 ## Collective emission from quantum emitters - Theory
 <div>
     <img src="/images/Figure 1.png" align="right" alt="Research Topic 3 Image" width=500px/>
@@ -41,7 +40,7 @@ Relavent publications:     <br>[1] Offek Tziperman†, Gefen Baranes†, Alexey 
     </p>
 </div>
 
-## Quantum nonlinear optics - Theory
+## [Quantum nonlinear optics - Theory](https://offektziperman.github.io/amp_quantum_pulse/)
 <div>
     <img src="/images/Figure 1 squeezing paper.png" align="right" alt="Research Topic 3 Image" width=500px/>
     <p>
@@ -52,9 +51,8 @@ We study the multimode transformations of pulses through Hamiltonians that are q
 amplification of a quantum pulse.” Submitted to Physical Review Letters, arXiv:2312.04394 (2023).
     </p>
 </div>
-Look [here](https://offektziperman.github.io/amp_quantum_pulse/) for more information.
 
-## Astrophysics
+## [Astrophysics](https://offektziperman.github.io/clumps/)
 <div>
     <img src="/images/galaxy_wclump.jpg" align="right" alt="Research Topic 3 Image" width=500px/>
     <p>
@@ -64,7 +62,6 @@ and Joel Primack. ”Conditions for clump survival in high-z disc galaxies.” M
 the Royal Astronomical Society 521, no. 3 (2023): 4299-4322.<br>
     </p>
 </div>
-  Look [here](https://offektziperman.github.io/clumps/) for more information.
 
 ## X-ray scintillation with quantum optics
 <div>
