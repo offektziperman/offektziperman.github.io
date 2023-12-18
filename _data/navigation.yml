@@ -4,6 +4,9 @@ main:
   - title: "Research"
     url: /research/      
 
+  - title: "Nonlinear Quantum Optics"
+    url: /amp_quantum_pulse/  
+
   - title: "Soliton Interactions"
     url: /soliton/  
     
